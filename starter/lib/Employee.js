@@ -13,8 +13,6 @@ getID(){}
 getEmail(){}
 getRole(Employee){}
 }
-printInfo(); {
 
-}
 
 module.exports = Employee;
