@@ -7,7 +7,16 @@ class Manager extends Employee {
        this.officeNumber = officeNumber;
     }
 
-    getRole(Manager){}
+
+    officeNumber(){
+        this.officeNumber.forEach(number=> {
+            console.log(number);
+        });
+    }    
+    getRole(){
+            console.log(manager);
+      
+    }
 }
 
 module.exports = Manager;

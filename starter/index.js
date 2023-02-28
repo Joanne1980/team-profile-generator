@@ -31,11 +31,11 @@ function createManager(team){
 
         type: 'input',
         name: 'phone number',
-        message: "What is the team manager's phone number?",
+        message: "What is the team manager's office number?",
         }
     ]).then((managerDetails) => {
         const manager=new Manager(managerDetails.name, managerDetails.id,
-        managerDetails.email, managerDetails.phoneNumber)
+        managerDetails.email, managerDetails.officeNumber)
         
         team.push(manager);
         createTeam(team);

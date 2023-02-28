@@ -12,14 +12,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "inquirer": "^8.2.2",
+        "inquirer": "^8.2.5",
         "jest": "^27.5.1"
     }
 }
-
-
-
-
-
-
-
