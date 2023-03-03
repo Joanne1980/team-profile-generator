@@ -20,6 +20,6 @@ https://github.com/Joanne1980/team-profile-generator
 ![alt text](/images/engineer.png?raw=true)
 ![alt text](/images/intern.png?raw=true)
 ![alt text](/images/webpage1.png?raw=true)
-![alt text](/images/webpage1.png?raw=true)
+![alt text](/images/npm%20test.png?raw=true)
 
 
